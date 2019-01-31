@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="shell_restore"  d="M11,10v4H2V6H5V2h9v8H11ZM2.994,7.975v5.031h6.98V7.975H2.994Zm9.98-3.969H5.994V6H11V9.006h1.974v-5Z"/>
+</svg>

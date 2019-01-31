@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Zero-Phishing"  d="M14,14L9,16H8L3,14,1,4,8,1H9l7,3ZM9.987,6.9C9.988,6.935,10,6.966,10,7v3a2,2,0,0,1-2,2C5.821,12,5.429,8.286,5.429,8.286L6,8,7,9l1,1H7a1,1,0,1,0,2,0V6.9A1.5,1.5,0,1,1,9.987,6.9ZM9.5,4.75a0.75,0.75,0,1,0,.75.75A0.75,0.75,0,0,0,9.5,4.75Z" transform="translate(-0.5 -0.5)"/>
+</svg>

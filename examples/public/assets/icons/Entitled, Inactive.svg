@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #828282;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Entitled_Inactive" data-name="Entitled, Inactive"  d="M410.018,91.973a7.026,7.026,0,1,1,7.026-7.026A7.026,7.026,0,0,1,410.018,91.973ZM410,78.991a6,6,0,1,0,6,6A6,6,0,0,0,410,78.991Zm4.19,4.887-4.656,4.656h0a1,1,0,0,1-1.414,0h0L406,86.41A1,1,0,1,1,407.41,85l1.418,1.418,3.95-3.95A1,1,0,0,1,414.192,83.879Z" transform="translate(-402.015 -76.938)"/>
+</svg>

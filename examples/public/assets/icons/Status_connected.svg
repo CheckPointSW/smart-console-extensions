@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #56b40a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Status_connected"  d="M8,1.013A6.994,6.994,0,1,1,1,8.007,7,7,0,0,1,8,1.013ZM10.28,2.568L8.562,6.949,10.853,7.9,5.7,13.044l2.1-4L5.127,8.092Z"/>
+</svg>

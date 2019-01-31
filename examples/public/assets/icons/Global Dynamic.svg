@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="8" viewBox="0 0 10 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #232323;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Global_Dynamic_" data-name="Global Dynamic "  width="10" height="8" rx="1.333" ry="1.333"/>
+  <path id="Global_Dynamic_2" data-name="Global Dynamic " class="cls-2" d="M9,8H2A1,1,0,0,1,1,7V2A1,1,0,0,1,2,1H9a1,1,0,0,1,1,1V7A1,1,0,0,1,9,8ZM4.095,2.009L1.479,4.5,4.095,6.99,4.923,6.2,3.136,4.5,4.923,2.8Zm2.748,0L6.015,2.8,7.8,4.5,6.015,6.2,6.843,6.99,9.458,4.5Z"/>
+</svg>

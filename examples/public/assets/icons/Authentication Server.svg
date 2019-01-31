@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232323;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Authentication_Server_" data-name="Authentication Server "  d="M15,8.063V8H14V9H13v1h0.063l-1.29,1.29A3.54,3.54,0,1,1,9.71,9.228L13.937,5H16V7.063ZM8,12a1,1,0,1,0,1,1A1,1,0,0,0,8,12Zm6-2.937V9h0.063ZM4,12.5A4.458,4.458,0,0,0,4.276,14H3v1H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1H9a1,1,0,0,1,1,1V8.276A4.457,4.457,0,0,0,4,12.5ZM9,3H2V4H9V3ZM9,5H2V6H9V5Z"/>
+</svg>

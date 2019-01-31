@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8ba33;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Quota_Warning" data-name="Quota Warning"  d="M13,12.888V13H12.883A6.719,6.719,0,1,1,13,12.888Zm-4.993-9.9A4.973,4.973,0,0,0,4.013,5.013L4,5,4.01,5.017A4.959,4.959,0,0,0,3.107,7H4.145a4,4,0,0,1,.437-1.03L7,10A1,1,0,1,0,8,9L4.73,5.73A3.972,3.972,0,0,1,11.866,7h1.041A5,5,0,0,0,8.007,2.991Z"/>
+</svg>

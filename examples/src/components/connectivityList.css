@@ -1,0 +1,69 @@
+table.object {
+  border-collapse: collapse;
+  width: 100%;
+}
+table.object,
+td.object-cell {
+  border-spacing: 0px;
+  border: 1px solid;
+  border-color: var(--table-border);
+  border-color: #e5e8ec;
+  vertical-align: top;
+}
+th.object-header {
+  border-spacing: 0px;
+  border: 1px solid;
+  border-color: var(--list-divider);
+  border-color: #425673;
+  vertical-align: top;
+}
+.object-header-title {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.object-header {
+  /* position: relative;
+    display: flex;
+    flex-direction: column; */
+  /* justify-content: center;
+    align-items: center; */
+  /* flex: 1 1 auto; */
+  text-align: left;
+  margin: 0;
+  padding: 5px 10px;
+  background-color: var(--darkblue);
+  background-color: #212d40;
+  -webkit-text-fill-color: var(--table-header);
+  -webkit-text-fill-color: #e8f1ff;
+}
+.object-cell {
+  width: 1%;
+  /* position: relative;
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+    align-items: center; 
+    flex: 1 1 auto; */
+  background-color: var(--row-zebra);
+  background-color: white;
+  margin: 0;
+  padding: 5px 10px;
+  /* text-transform: uppercase; */
+  font-weight: normal;
+}
+
+.connected {
+  fill: var(--ok);
+  fill: #56b40a;
+  fill-rule: evenodd;
+}
+
+.not_connected {
+  fill: var(--error);
+  fill: #f24e4e;
+}
+
+label.loading-badge {
+  font-style: italic;
+}

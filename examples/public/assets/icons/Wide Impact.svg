@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+    </style>
+  </defs>
+  <rect id="Wide_Impact" data-name="Wide Impact" style="fill: #ffb72d" x="1" y="1" width="14" height="14" rx="2" ry="2"/>
+  <path id="Wide_Impact-2" data-name="Wide Impact" style="fill: #242424; fill-rule: evenodd" d="M10.772,12.159l-0.554-.832a4,4,0,0,0,0-6.654l0.554-.832A5,5,0,0,1,10.772,12.159ZM9.663,10.5L9.109,9.663a2,2,0,0,0,0-3.327L9.663,5.5A3,3,0,0,1,9.663,10.5ZM8,9A1,1,0,1,1,9,8,1,1,0,0,1,8,9ZM6,8a2,2,0,0,0,.891,1.663L6.337,10.5a3,3,0,0,1,0-4.99L6.891,6.337A2,2,0,0,0,6,8ZM4,8a3.994,3.994,0,0,0,1.782,3.327l-0.554.832a5,5,0,0,1,0-8.317L5.782,4.673A3.994,3.994,0,0,0,4,8Z"/>
+</svg>

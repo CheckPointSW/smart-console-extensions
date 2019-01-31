@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+    </style>
+  </defs>
+  <g>
+    <circle style="fill: #e54848;" cx="24" cy="24" r="20" />
+    <path style="fill: #fff; fill-rule: evenodd;" d="M28.250,15.200 L23.309,20.141 L28.247,25.079 L24.958,28.368 L20.020,23.430 L15.077,28.372 L11.788,25.083 L16.731,20.141 L11.786,15.196 L15.075,11.907 L20.020,16.851 L24.960,11.911 L28.250,15.200 Z" transform="translate(4 4)"/>
+  </g>
+</svg>

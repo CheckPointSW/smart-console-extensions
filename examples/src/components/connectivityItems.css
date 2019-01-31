@@ -1,0 +1,56 @@
+.connectivity-items {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.connectivity-item {
+  width: 110px;
+}
+
+svg.loading-badge {
+  fill-rule: evenodd;
+  fill: var(--theme-blue);
+  fill: #2e3f58;
+  width: 16px;
+  height: 16px;
+  background: var(--background-grey);
+  background: #f7f7f7;
+  border-radius: 10px;
+}
+.connected {
+  fill: var(--ok);
+  fill: #56b40a;
+  fill-rule: evenodd;
+  width: 16px;
+  height: 16px;
+  background: var(--background-grey);
+  background: #f7f7f7;
+  border-radius: 10px;
+}
+
+.not_connected {
+  fill: var(--error);
+  fill: #f24e4e;
+  width: 16px;
+  height: 16px;
+  background: var(--background-grey);
+  background: #f7f7f7;
+  border-radius: 10px;
+}
+
+.lines-row {
+  height: 50px;
+}
+.lines {
+  position: absolute;
+  stroke: var(--grey);
+  stroke: #7c7c7c;
+  width: 100%;
+}
+
+.asset-overview {
+  align-items: center;
+  cursor: default;
+  flex-direction: row;
+  height: 100%;
+}

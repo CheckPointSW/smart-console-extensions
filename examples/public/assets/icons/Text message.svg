@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Text_message" data-name="Text message"  d="M13,11H8L4,15V11H3A2,2,0,0,1,1,9V3A2,2,0,0,1,3,1H13a2,2,0,0,1,2,2V9A2,2,0,0,1,13,11ZM4,8h6V7H4V8Zm8-3H4V6h8V5Z"/>
+</svg>

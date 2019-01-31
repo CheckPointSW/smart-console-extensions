@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Network_DMZ" data-name="Network DMZ"  d="M12,12V11H10v4H1V6H5V4H4V1H7V4H6V6h4v4h2V9h3v3H12ZM7,9H4v3H7V9Z"/>
+</svg>

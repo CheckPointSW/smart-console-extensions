@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cde2f8;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect y="-1.5" width="24" height="24"/>
+    </clipPath>
+    <filter id="filter" x="0" y="5" width="26" height="17" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood result="flood" flood-opacity="0.79"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <path id="Topic_Global_Domain" data-name="Topic_Global Domain"  d="M3.492,16.012L1.016,7.853l6.757,2.314L12.164,5l4.73,5.163L23.65,7.853l-2.476,8.16H3.492ZM20.88,16.978l-0.609,2.005H4.394L3.785,16.978h17.1Z" transform="translate(0 -1.5)"/>
+  </g>
+</svg>

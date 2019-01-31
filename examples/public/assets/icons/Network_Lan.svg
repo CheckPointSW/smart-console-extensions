@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="network.lan"  d="M12,10V9h3v1H12ZM5,10H2V9H5V6H8V4H7V1h3V4H9V6h3v7H5V10Zm4,6H8V13H9v3Z"/>
+</svg>

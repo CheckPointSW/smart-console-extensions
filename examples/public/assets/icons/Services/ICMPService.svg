@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232323;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ICMP"  d="M0,14V11H16.008v3H0ZM16.007,6l-1,1h-2V9h-1v-6h3l1,1h0V6h0Zm-1-2h-2V6h2v-2Zm-5-1h1V9h-1v-6ZM8.493,6.01h0L7,5V9H6V3H7V4L8.492,5.02,10,4V5L8.493,6.009h0ZM2,8H5V9H3ZM3,8H2v-4H2l1-1H5v1H3V8Zm-3.029-5h1V9h-1v-6Z"/>
+</svg>

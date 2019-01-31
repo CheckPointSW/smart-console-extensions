@@ -1,0 +1,36 @@
+{
+  "extension": {
+    "name": "Connectivity Check",
+    "product-url": "https://sc1.checkpoint.com/documents/SmartConsole/Extensions/index.html?ref=connectivity",
+    "provider": "extensions@checkpoint.com",
+    "version": "1.0",
+    "extension-version-requirements": {
+      "minimum-version": "1.2"
+    }
+  },
+  "locations": [
+    {
+      "location": "toolbar",
+      "relevant-types": ["gateways"],
+      "ui-element": {
+        "type": "menu",
+        "caption": "Connectivity Check",
+        "tooltip": "",
+        "action": {
+          "browser-window": {
+            "modal-dialog": false,
+            "min-height": "550",
+            "min-width": "950"
+          },
+          "details-level": "full",
+          "method": "get",
+          "trigger-id": "get-work-session",
+          "url": "index.html"
+        }
+      }
+    }
+  ],
+  "requested-permissions": {
+    "client": ["get-read-only-session", "run-read-only-commands"]
+  }
+}

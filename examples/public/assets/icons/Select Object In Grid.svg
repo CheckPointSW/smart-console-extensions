@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Select_Object_In_Grid" data-name="Select Object In Grid"  d="M16,14.42L14.415,16l-2.582-2.574c-0.766,1.262-1.377,2.432-1.377,2.432L8,7.994l7.288,2.466s-0.823.582-1.9,1.361ZM0,1H8V4H0V1ZM7,8.977L6,9H0V6H7V8.977ZM6,7H1V8H6V7Zm1.667,7H0V11H6.667Z" transform="translate(0 -0.5)"/>
+</svg>

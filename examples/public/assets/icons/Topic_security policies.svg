@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cde2f8;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="2" y="4" width="22" height="17" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood result="flood" flood-color="#0d0f11"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Topic_security_policies" data-name="Topic_security policies"  d="M4,4H9a1,1,0,0,1,1,1V7A1,1,0,0,1,9,8H4A1,1,0,0,1,3,7V5A1,1,0,0,1,4,4Zm8,0h3a1,1,0,0,1,1,1V7a1,1,0,0,1-1,1H12a1,1,0,0,1-1-1V5A1,1,0,0,1,12,4Zm6,0h3a1,1,0,0,1,1,1V7a1,1,0,0,1-1,1H18a1,1,0,0,1-1-1V5A1,1,0,0,1,18,4ZM9,9h4a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H9a1,1,0,0,1-1-1V10A1,1,0,0,1,9,9Zm7,0h5a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H16a1,1,0,0,1-1-1V10A1,1,0,0,1,16,9ZM4,14H9a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V15A1,1,0,0,1,4,14Zm8,0h3a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H12a1,1,0,0,1-1-1V15A1,1,0,0,1,12,14Zm6,0h3a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H18a1,1,0,0,1-1-1V15A1,1,0,0,1,18,14ZM4,9H6a1,1,0,0,1,1,1v2a1,1,0,0,1-1,1H4a1,1,0,0,1-1-1V10A1,1,0,0,1,4,9Z" transform="translate(-1 -0.5)"/>
+</svg>

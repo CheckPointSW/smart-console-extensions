@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Increase_Font_Size" data-name="Increase Font Size"  d="M8.3,2.982H4.786L-0.007,16H3.465l1.066-3H8.563l0.895,3h3.527ZM5,11L6.2,6.441a4.924,4.924,0,0,0,.23-1.135H6.5a5.633,5.633,0,0,0,.22,1.171L8,11H5ZM16,3.015H10L13,0Z"/>
+</svg>

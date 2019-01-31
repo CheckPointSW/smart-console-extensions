@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e5c91;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Acceleration_Cards" data-name="Acceleration Cards"  d="M191,1517.96l9,0.04v2l4-3-4-3v2l-9-.02v1.98Zm-3-5,9,0.04v2l4-3-4-3v2l-9-.02v1.98Zm0,10,6,0.04v2l4-3-4-3v2l-6-.02v1.98Z" transform="translate(-188 -1509)"/>
+</svg>

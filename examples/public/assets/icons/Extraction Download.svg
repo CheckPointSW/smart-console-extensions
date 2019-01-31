@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Extraction_Download" data-name="Extraction Download"  d="M77,534v-3h3v3H77Zm2,5H76v-3h3v3Zm-7-7h3v3H72v-3Zm-10,4-8-10h6l0.016-12h4L64,526h6Zm3,6H48l0.016-6,4,0.017v2L65,538v4Zm5-4h3v3h3v3H69a2,2,0,0,1-2-2v-7h3v3Z" transform="translate(-48 -513)"/>
+</svg>

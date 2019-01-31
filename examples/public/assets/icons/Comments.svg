@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Comments"  d="M13,12H8L7,13,4,16V12H3a1,1,0,0,1-1-1V3A1,1,0,0,1,3,2H13a1,1,0,0,1,1,1v8A1,1,0,0,1,13,12ZM5,6A1,1,0,1,0,6,7,1,1,0,0,0,5,6ZM8,6A1,1,0,1,0,9,7,1,1,0,0,0,8,6Zm3,0a1,1,0,1,0,1,1A1,1,0,0,0,11,6Z"/>
+</svg>

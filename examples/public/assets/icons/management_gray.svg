@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #333;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="management"  d="M1.36,9.968L0,6,5,7,8,3l3,4,5-1L14.638,9.968H1.36Zm12.935,1L13.6,12.989H2.4L1.7,10.967H14.295Z"/>
+</svg>

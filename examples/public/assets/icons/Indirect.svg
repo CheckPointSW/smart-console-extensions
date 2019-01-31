@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Indirect"  d="M222,1422h-3v-1h2v-3h2v4h-1Zm-1-11h-2v-1h4v8h-2v-7Zm-5,7a2,2,0,1,1,2-2A2,2,0,0,1,216,1418Zm-7,4v-4h2v3h2v1h-4Zm2-4h-2v-8h4v1h-2v7Z" transform="translate(-208 -1408)"/>
+</svg>

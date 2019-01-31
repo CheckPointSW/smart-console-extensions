@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.344" height="15.438" viewBox="0 0 15.344 15.438">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Zoom_In" data-name="Zoom In"  d="M15.341,13.3l-2.121,2.121-3.38-3.38a6.472,6.472,0,1,1,2.152-2.09ZM9.665,3.3a4.494,4.494,0,1,0,0,6.355A4.494,4.494,0,0,0,9.665,3.3ZM9,7H7V9H6V7H4V6H6V4H7V6H9V7Z"/>
+</svg>

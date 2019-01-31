@@ -1,0 +1,44 @@
+.default-icon {
+}
+
+.default-svg-icon {
+  fill: var(--darkblue);
+  width: 24px;
+  height: 24px;
+}
+#loading-icon {
+  position: relative;
+  background-color: #ccc;
+  /* height: 6px; */
+  animation-name: animate;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    color-stop(8%, #eeeeee),
+    color-stop(18%, #dddddd),
+    color-stop(33%, #eeeeee)
+  );
+  background: -webkit-linear-gradient(
+    left,
+    #eeeeee 8%,
+    #dddddd 18%,
+    #eeeeee 33%
+  );
+  background: linear-gradient(to right, #eeeeee 8%, #dddddd 18%, #eeeeee 33%);
+  background-size: 800px 104px;
+  -webkit-background-size: 800px 104px;
+}
+#loading-icon {
+  /* height: 16px;
+  width: 16px; */
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border: 1px solid;
+  border-color: #e5e6e9;
+  border-radius: 10px;
+}

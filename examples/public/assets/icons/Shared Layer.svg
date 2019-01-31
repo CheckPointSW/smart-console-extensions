@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Shared_Layer" data-name="Shared Layer"  d="M13.041,3.969h-2.3L8,6.7V6a1.978,1.978,0,0,0-.1-0.593l2.194-2.19V2.969h2.947V1L16,3.462,13.041,5.926V3.969ZM8,9.322L10.678,12H13V10l3,2.5L13,15V13H10V12.736l-2.11-2.11A1.98,1.98,0,0,0,8,10V9.322ZM5.5,11h-3A1.5,1.5,0,0,1,1,9.5v-3A1.5,1.5,0,0,1,2.5,5h3A1.5,1.5,0,0,1,7,6.5v3A1.5,1.5,0,0,1,5.5,11Z"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Bridge_copy_4" data-name="Bridge copy 4"  d="M13,10l2.5,5h-2L12,12H3.994L2.5,15h-2l2.5-5H13Zm0-3H2.994L0.5,2h2l1.5,3H12l1.5-3h2Z"/>
+</svg>

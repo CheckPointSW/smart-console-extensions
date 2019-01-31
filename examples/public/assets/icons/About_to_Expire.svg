@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8b72c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="About_to_Expire"  d="M8.01,14.987a7,7,0,1,1,7-7A7,7,0,0,1,8.01,14.987Zm0-12.027a5.031,5.031,0,1,0,5.031,5.031A5.031,5.031,0,0,0,8.007,2.96ZM4.318,5.271L8.29,8.058l2.915-1.932L8.112,9.565Z"/>
+</svg>

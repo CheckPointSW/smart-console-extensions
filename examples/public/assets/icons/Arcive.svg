@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Arcive"  d="M12,14H4a1,1,0,0,1-1-1V11H6a1,1,0,0,0,1,1H9a1,1,0,0,0,1-1h3v2A1,1,0,0,1,12,14ZM7,10H3V7H6A1,1,0,0,0,7,8H9a1,1,0,0,0,1-1h3v3H7ZM7,6H3V4A1,1,0,0,1,4,3H6A1,1,0,0,0,7,4H9a1,1,0,0,0,1-1h2a1,1,0,0,1,1,1V6H7Z" transform="translate(0 -0.5)"/>
+</svg>

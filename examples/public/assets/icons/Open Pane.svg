@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Open_Pane" data-name="Open Pane"  d="M0,0.983h16.01v15H0v-15ZM2,3H14V14H2V3Zm9,3v5h1V6M11,7H10v3h1V7ZM10,8H9V9h1V8Z"/>
+</svg>

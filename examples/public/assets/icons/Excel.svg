@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Excel"  d="M12.071,15H4a1,1,0,0,1-1-1V3A1,1,0,0,1,4,2H8.976L13,6v8.071A0.958,0.958,0,0,1,12.071,15ZM8.888,7.01L8,8.117,7.109,7.01H4.681l2.1,2.616L4.861,12.02H7.288L8,11.137l0.71,0.884h2.427L9.212,9.627l2.1-2.616H8.888ZM9,3V6h3Z"/>
+</svg>

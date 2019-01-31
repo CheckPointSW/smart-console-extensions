@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232323;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Flag"  d="M4,1H6V15H4V1ZM14,6L7.006,1.952,7,10Z" transform="translate(-1)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="logs_copy" data-name="logs  copy"  d="M12,15H3a1,1,0,0,1-1-1V2H5A1,1,0,0,1,6,1H9a1,1,0,0,1,1,1h3V14A1,1,0,0,1,12,15ZM3,4V14h9V4H3Zm1,8h7v1H4V12Zm0-2h7v1H4V10ZM3.988,6.055L6.082,7.48,7.443,5.01,8.909,7.48,11,6.055,10.181,9H4.838Z"/>
+</svg>

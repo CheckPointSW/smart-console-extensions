@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.969" height="16" viewBox="0 0 15.969 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Arrow"  d="M0,12H9v3l6.97-6.5L9,2V5H0v7Z" transform="translate(0 -0.5)"/>
+</svg>

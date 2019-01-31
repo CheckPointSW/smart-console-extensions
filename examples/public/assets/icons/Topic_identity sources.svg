@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="24" viewBox="0 0 23 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cde2f8;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect x="-0.5" y="-1" width="24" height="24"/>
+    </clipPath>
+    <filter id="filter" x="0" y="4" width="26" height="18" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood result="flood" flood-opacity="0.79"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <path id="identity_sources" data-name="identity sources"  d="M23,19H2a1,1,0,0,1-1-1V5A1,1,0,0,1,2,4H23a1,1,0,0,1,1,1V18A1,1,0,0,1,23,19ZM13,12.008h3.008v-1H13v1Zm-1.994,3h0V12.016H10.986v-7h-9v8.846l0.006,0V15h0v0.621h0v0.368h0V16h9.017V15Zm1.994-5h9.008v-1H13v1ZM23.009,7H13.014V8.007h9.995V7ZM5.282,12.517A2.877,2.877,0,0,1,4.463,11L4.454,11c-0.4,0-.445-0.377-0.445-0.842s-0.039-.839.32-0.842c-0.041-1.1-.1-1.99.94-2.338a1.969,1.969,0,0,1,1.154-.4c0.3-.174.581-0.312,0.77-0.4-0.07.129-.139,0.256-0.209,0.38a9.212,9.212,0,0,1,1.362.132c-0.209.1-.411,0.2-0.613,0.3,0.985,0.359,1,1.242.989,2.326,0.3,0.039.267,0.4,0.267,0.838s-0.042.807-.4,0.836A2.965,2.965,0,0,1,7.8,12.458l0.133,0.689H7.989a8.549,8.549,0,0,1,2.01.392V15H3V13.57A10.8,10.8,0,0,1,5.15,13.2Z" transform="translate(-0.5 -1)"/>
+  </g>
+</svg>

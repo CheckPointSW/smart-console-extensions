@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Export_to_Excel_copy" data-name="Export to Excel copy"  d="M728.071,1052h-5.082L719,1048.68V1040a1,1,0,0,1,1-1h4.976l4.024,4v8.07A0.959,0.959,0,0,1,728.071,1052Zm-3.183-7.99L724,1045.12l-0.89-1.11h-2.428l2.1,2.62-1.924,2.39h2.427l0.711-.88,0.71,0.88h2.427l-1.924-2.39,2.1-2.62h-2.428ZM725,1040v3h3Zm-4.007,12L717,1054.99v-1.98h-4v-2.02h4V1049Z" transform="translate(-713 -1039)"/>
+</svg>

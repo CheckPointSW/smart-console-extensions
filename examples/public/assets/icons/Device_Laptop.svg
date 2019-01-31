@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Device_Laptop"  d="M205.989,376L206,374h40l0,2H205.989Zm4-22.923a1.044,1.044,0,0,1,1-1.092H241.9a1.134,1.134,0,0,1,1.1,1.092V373.01H209.984V353.081ZM212,371h29V354H212v17Z" transform="translate(-206 -344)"/>
+</svg>

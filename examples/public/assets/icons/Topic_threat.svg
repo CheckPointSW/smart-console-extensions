@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cde2f8;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="2" y="2" width="22" height="22" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="1" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood result="flood" flood-opacity="0.79"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Topic_threat"  d="M3,5.8S8.911,2,12.711,2,22,5.8,22,5.8L19.467,15.933S15.244,21,12.289,21s-6.755-5.067-6.755-5.067ZM4.993,7s4.671-3,7.674-3,7.34,3,7.34,3l-2,8.008s-3.336,4-5.672,4-5.338-4-5.338-4ZM6.007,7.6s4.04-2.6,6.637-2.6,6.348,2.6,6.348,2.6L17.261,14.53s-2.886,3.463-4.905,3.463S7.739,14.53,7.739,14.53Zm2,1.2s2.8-1.8,4.595-1.8,4.4,1.8,4.4,1.8L15.8,13.6s-2,2.4-3.4,2.4-3.2-2.4-3.2-2.4ZM12.5,10A1.5,1.5,0,1,1,11,11.5,1.5,1.5,0,0,1,12.5,10Z" transform="translate(-1 -1)"/>
+</svg>

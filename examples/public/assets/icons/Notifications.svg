@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="megaphone"  d="M11,8V7h5V8H11ZM10.712,5.747l3.536-3.536,0.707,0.707L11.419,6.455ZM4.44,9L6.2,13h-2L2.44,9H1.5a1.5,1.5,0,1,1,0-3H6l4-2v7L6,9H4.44Zm10.681,3.114-0.707.707L10.878,9.286l0.707-.707Z"/>
+</svg>

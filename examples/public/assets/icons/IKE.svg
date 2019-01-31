@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232323;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="IKE_copy" data-name="IKE copy"  d="M14,11v1H13V11H10V10h3V9h1v1h1v1H14ZM9.98,5.982V8.02L8,10l0.294,0.588L8,11l-0.062-.031A3.5,3.5,0,1,1,4.963,8.037L11,2s1.284,0.014,2,0V4L12.07,5.3ZM4.712,11.29a1.005,1.005,0,1,0,0,1.419A1,1,0,0,0,4.712,11.29ZM10,12h1v1h3v1H11v1H10V14H9V13h1V12Z"/>
+</svg>

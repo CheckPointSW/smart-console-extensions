@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f86060;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Quota_Exceeded" data-name="Quota Exceeded"  d="M13,12.888V13H12.883A6.719,6.719,0,1,1,13,12.888ZM12,5l-0.005.005A4.982,4.982,0,0,0,3.107,7H4.145a3.972,3.972,0,0,1,7.132-1.277L8,9a1,1,0,1,0,1,1l2.424-4.04A4,4,0,0,1,11.866,7h1.041A4.96,4.96,0,0,0,12,5.007Z"/>
+</svg>

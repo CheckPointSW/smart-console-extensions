@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+    </style>
+  </defs>
+  <path id="Close_Pane" data-name="Close Pane" style="fill: #2e3f58; fill-rule: evenodd;" d="M0,0.983h16.01v15H0v-15ZM2,3H14V14H2V3ZM6,6v5H5V6M6,7H7v3H6V7ZM7,8H8V9H7V8Zm3-5h1V14H10V3Z"/>
+</svg>

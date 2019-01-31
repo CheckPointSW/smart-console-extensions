@@ -1,0 +1,9 @@
+<svg id="Wildcard" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+	<defs>
+		<style>
+
+		</style>
+	</defs>
+	<rect id="Wildcard-2" data-name="Wildcard" class="cls-1" style="fill: none" width="16" height="16"/>
+	<path id="Wildcard-3" data-name="Wildcard" class="cls-2" style="fill-rule: evenodd" d="M13,10V7h3v3H13Zm-2.016.238-0.746.746L9,9.746V12H8V9.755l-1.26,1.26L5.985,10.26,7.245,9H5V8H7.254L6.016,6.762l0.746-.746L8,7.254V5H9V7.245l1.26-1.26L11.015,6.74,9.755,8H12V9H9.746ZM8,4H7V1h3V4H8ZM1,7H4v3H1V7Zm8,6h1v3H7V13H9Z"/>
+</svg>

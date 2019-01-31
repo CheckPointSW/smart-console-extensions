@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Threat_Rule_" data-name="Threat Rule "  d="M11,16V11h5v5H11ZM6,16V11h4v5H6ZM0,11H5v5H0V11Zm1,2H2v1H1v1H2V14H3v1H4V14H3V13H4V12H3v1H2V12H1v1ZM11.067,8.539L8.061,10.014,4.931,8.539,3.992,3.21l4.069-1.2,3.945,1.2Z"/>
+</svg>

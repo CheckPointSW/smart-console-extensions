@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #232323;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Gatewayes_Stub" data-name="Gatewayes Stub"  d="M1.008,15.007v-14h14v14h-14Zm13-13h-12v12h12v-12Zm-2,10h-8v-8h8v8Zm-5-1h2v-4h-2v4Zm4-6h-6v6h1v-5h4v5h1v-6Z"/>
+</svg>

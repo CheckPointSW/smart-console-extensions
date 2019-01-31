@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="7" viewBox="0 0 7 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b5bbc9;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="grabber"  d="M6,0H7V1H6V0ZM6,3H7V4H6V3ZM3,3H4V4H3V3ZM0,6H1V7H0V6ZM3,6H4V7H3V6ZM6,6H7V7H6V6Z"/>
+</svg>

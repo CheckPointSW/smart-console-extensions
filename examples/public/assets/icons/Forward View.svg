@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3f58;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Forward_View" data-name="Forward View"  d="M14.565,9.6L8.6,15.553a1.5,1.5,0,0,1-2.13-2.125l3.422-3.415H3.5a1.5,1.5,0,0,1,0-2.994H9.9L6.466,3.582A1.507,1.507,0,0,1,8.6,1.449l5.969,5.976A1.567,1.567,0,0,1,14.565,9.6Z" transform="translate(-0.5 -0.5)"/>
+</svg>

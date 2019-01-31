@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8b72c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Deep_Scan" data-name="Deep Scan"  d="M14.966,8H10.983L7.991,10.991,5,8H1V8.1C1,8.063.988,8.023,0.988,7.981a6.99,6.99,0,1,1,13.981,0C14.968,7.987,14.966,7.993,14.966,8ZM9,6V3H7V6H5.016L8,9l2.984-3H9ZM7.991,12.991L11.983,9h2.883A6.958,6.958,0,0,1,1.09,9H4Z" transform="translate(0.016 0.016)"/>
+</svg>

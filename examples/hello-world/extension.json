@@ -1,0 +1,129 @@
+{
+	"extension": {
+		"name": "Hello World",
+		"product-url": "https://sc1.checkpoint.com/documents/SmartConsole/Extensions/index.html?ref=hello-world",
+		"provider": "extensions@checkpoint.com",
+		"version": "1.0"
+	},
+	"custom-data": {
+		"display-level": "developer",
+		"theme": "light"
+	},
+	"locations": [{
+		"location": "toolbar",
+		"relevant-types": ["access-policy","threat-policy","gateways","ips-protections","threat-profiles","sessions","revisions"],
+		"ui-element": {
+			"type": "menu",
+			"caption": "Extension Sample",
+			"tooltip": "Demonstrate basic capabilities of SmartConsole Extension within various toolbar",
+			"action": {
+					"browser-window": {
+						"height": "450",
+						"width": "900"
+					},
+					"details-level": "full",
+					"method": "get",
+					"trigger-id": "toolbar-get",
+					"url": "index.html"
+				}
+		}
+	},
+	{
+		"location": "details-pane",
+		"relevant-types": ["access-policy","threat-policy","gateways","ips-protections","threat-profiles","sessions","revisions"],
+		"ui-element": {
+			"type": "tab",
+			"caption": "Extension Tab",
+			"tooltip": "Demonstrate basic capabilities of SmartConsole Extension within various details pane",
+			"action": {
+				"details-level": "full",
+				"method": "get",
+				"trigger-id": "details-pane",
+				"url": "index.html"
+			}
+		}
+	},
+	{
+		"location": "post-enable-popup",
+		"relevant-types": ["extension"],
+		"ui-element": {
+			"caption": "What's Next...",
+			"tooltip": "Demonstrate basic capabilities of SmartConsole Extension after enable",
+			"action": {
+				"browser-window": {
+						"height": "450",
+						"width": "900"
+					},
+				"details-level": "uid",
+				"method": "get",
+				"trigger-id": "post-installation-popup",
+				"url": "index.html"
+			}
+		}
+	},
+	{
+		"location": "global-pane",
+		"relevant-types": ["*"],
+		"ui-element": {
+				"type": "tab",
+				"caption": "Extension Global Pane",
+				"tooltip": "Demonstrate basic capabilities of SmartConsole Extension in Global Pane",
+				"update-title-from-page": "false",
+				"update-icon-from-page": "true",
+				"action": {
+					"details-level": "full",
+					"method": "get",
+					"trigger-id": "editor-common-get",
+					"url": "index.html"
+				}
+		}
+	},
+	{
+		"location": "editor",
+		"relevant-types": ["*"],
+		"ui-element": {
+				"type": "menu-item",
+				"caption": "Extension topic",
+				"tooltip": "Demonstrate basic capabilities of SmartConsole Extension inside editors",
+				"action": {
+					"browser-window": {
+						"height": "450",
+						"width": "900",
+						"min-width": "20",
+						"min-height": "20"
+					},
+					"details-level": "full",
+					"method": "get",
+					"trigger-id": "editor-common-get",
+					"url": "index.html"
+				}
+		}
+	},
+	{
+		"location": "context-menu",
+		"relevant-types": ["gateway"],
+		"ui-element": {
+			"type": "menu",
+			"caption": "Extension Menu",
+			"tooltip": "Demonstrate basic capabilities of SmartConsole Extension in Gateways & Servers context menu",
+			"items": [{
+				"type": "menu-item",
+				"caption": "Extension Action",
+				"tooltip": "Demonstrate basic capabilities of SmartConsole Extension per menu item",
+				"action": {
+					"browser-window": {
+						"height": "450",
+						"width": "900"
+					},
+					"details-level": "full",
+					"method": "get",
+					"trigger-id": "gateway-context-menu-get",
+					"url": "index.html"
+				}
+			}]
+		}
+	}],
+	"requested-permissions": {
+		"client": ["get-read-only-session"]
+	}
+}

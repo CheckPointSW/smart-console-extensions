@@ -1,0 +1,28 @@
+{
+  "extension": {
+    "name": "Show Gateways Interfaces",
+    "product-url": "https://sc1.checkpoint.com/documents/SmartConsole/Extensions/index.html?ref=interfaces",
+    "provider": "extensions@checkpoint.com",
+    "version": "1.0",
+    "extension-version-requirements": {
+      "minimum-version": "1.2"
+    }
+  },
+  "locations": [
+    {
+      "location": "details-pane",
+      "relevant-types": ["gateways"],
+      "ui-element": {
+        "type": "tab",
+        "caption": "Interfaces",
+        "tooltip": "Display device interfaces",
+        "action": {
+          "details-level": "full",
+          "method": "get",
+          "trigger-id": "gateways-details-pane",
+          "url": "index.html"
+        }
+      }
+    }
+  ]
+}

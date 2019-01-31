@@ -1,0 +1,95 @@
+body {
+  font-family: "Segoe UI", "Open Sans", tahoma, arial, verdana, sans-serif;
+}
+
+#scrollTable {
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 250px;
+}
+
+#interfacesTable {
+  border-collapse: collapse;
+  width: 100%;
+  visibility: hidden;
+  border: 1px solid #e0e4e8;
+}
+
+#interfacesTable td,
+#interfacesTable th {
+  text-align: left;
+  height: 23px;
+  padding-left: 10px;
+  font-family: "Segoe UI";
+  max-width: 500px;
+}
+
+#interfacesTable td {
+  font-size: 11px;
+  font-weight: normal;
+  color: #333333;
+}
+
+#interfacesTable th {
+  border-right: 1px solid #425673;
+  background-color: #2e3f58;
+  font-size: 12px;
+  font-weight: bold;
+  color: #e8f1ff;
+}
+
+#interfacesTable tr:nth-child(odd) {
+  background-color: #f6f7f9;
+}
+
+#interfacesTable tr:hover {
+  background-color: #dedfe0;
+}
+
+.might-overflow {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.column10 {
+  width: 10%;
+}
+
+.column15 {
+  width: 13%;
+}
+
+.name {
+  padding-left: 10px;
+  display: inline-block;
+}
+
+.icon {
+  width: 14px;
+  height: 14px;
+  display: inline-block;
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  color: #2e3f58;
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 18px;
+  text-align: center;
+  color: #2e3f58;
+}
+
+p {
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-style: italic;
+  color: #a7a9ac;
+  text-align: center;
+  vertical-align: middle;
+}

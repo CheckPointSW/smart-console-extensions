@@ -8,8 +8,8 @@ Currently, in order to see the topology of a gateway\cluster, one need to open t
 
 ## Getting Started
 
-3. Copy or clone Show Gateways Interfaces example to your web-service for hosting (should support SSL)
-4. Install extension by pasting URL to extension.json file (e.g. https://your-page-path.com/extension.json)
+1. Copy or clone Show Gateways Interfaces example to your web-service for hosting (should support SSL)
+2. Install extension by pasting URL to extension.json file (e.g. https://your-page-path.com/extension.json)
 
 ## Demo
 

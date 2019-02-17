@@ -103,10 +103,9 @@ export default class ExtensionInteractionSubscription {
     // notify the first subscriber(s) and remove it
     let subscriber;
     if (value && value.response && value.request) {
-      value = value.response;
       subscriber = this.subscribers[value.request.subscriptionId];
       delete this.subscribers[value.request.subscriptionId];
-      subscriber.operation(value);
+      subscriber.operation(value.response);
     } else {
       for (let key in this.subscribers) {
         // check if the property/key is defined in the object itself, not in parent

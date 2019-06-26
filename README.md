@@ -29,3 +29,4 @@ const context = await this.interactions.getContextObject();
 - `closeExtensionWindow` - Request SmartConsole to close the extension window.
 
 See [SmartConsole Extension Developer Guide](https://sc1.checkpoint.com/documents/SmartConsole/Extensions/index.html?ref=git) for additional information.
+

@@ -49,6 +49,10 @@ export default class SmartConsoleInteractions {
   // manages the subscription to callback returns from the embedding SmartConsole whenever "go to rule" is called.
   private goToRuleSubscription: ExtensionInteractionSubscription;
 
+  private getReadOnlyCommandSubscription: ExtensionInteractionSubscription;
+
+  private closeWindowSubscription: ExtensionInteractionSubscription;
+
   private invoker: ExtensionInvoker;
 
   constructor(demoInteractions: any) {
@@ -59,6 +63,10 @@ export default class SmartConsoleInteractions {
     this.requestCommitSubscription = new ExtensionInteractionSubscription(requestCommitCommand, false, this.invoker);
 
     this.goToRuleSubscription = new ExtensionInteractionSubscription(goToRuleCommand, false, this.invoker);
+
+    this.getReadOnlyCommandSubscription = new ExtensionInteractionSubscription(readOnlyCommand, false, this.invoker);
+
+    this.closeWindowSubscription = new ExtensionInteractionSubscription(closeWindowCommand, false, this.invoker);
   }
 
   /**
@@ -68,9 +76,7 @@ export default class SmartConsoleInteractions {
    * @returns {any} Query response
    */
   public async query(queryRequest: any, subscriptionId: string = uuid()) {
-    const getReadOnlyCommandSubscription = new ExtensionInteractionSubscription(readOnlyCommand, false, this.invoker);
-
-    const queryResult = await getReadOnlyCommandSubscription.subscribe({
+    const queryResult = await this.getReadOnlyCommandSubscription.subscribe({
       command: queryRequest.queryId,
       parameters: queryRequest.queryParams,
       subscriptionId,
@@ -125,8 +131,7 @@ export default class SmartConsoleInteractions {
    * Request SmartConsole to close the extension window
    */
   public closeExtensionWindow(subscriptionId: string = uuid()) {
-    const closeWindowSubscription = new ExtensionInteractionSubscription(closeWindowCommand, false, this.invoker);
-    closeWindowSubscription.subscribe({ subscriptionId });
+    this.closeWindowSubscription.subscribe({ subscriptionId });
   }
 }
 

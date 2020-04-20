@@ -59,7 +59,7 @@ export default class ExtensionInteractionSubscription {
             reject(ExtensionInvoker.OPERATION_CANCELLED_BY_USER);
           } else {
             console.error('subscribe.Promise reject', errorObject.message);
-            reject('An internal error has occured when communicating to SmartConsole. ' + errorObject.message);
+            reject('An internal error has occurred when communicating to SmartConsole. ' + errorObject.message);
           }
         } else {
           // SmartConsole returned the value successfully - so we resolve the async promise with this value.

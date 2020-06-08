@@ -21,11 +21,11 @@
     "typescript"
   ],
   "devDependencies": {
-    "@types/node": "^10.17.18",
+    "@types/node": "^10.17.24",
     "prettier": "^1.17.1",
     "tslint": "^5.17.0",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.5.1"
+    "typescript": "^3.9.5"
   },
   "dependencies": {}
 }

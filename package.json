@@ -1,6 +1,6 @@
 {
   "name": "smart-console-interactions",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "A JavaScript library to interact with SmartConsole Extension Platform",
   "author": "Ron Izraeli (https://github.com/chkp-roniz)",
   "license": "MIT",
@@ -10,6 +10,9 @@
   "email": "extensions@checkpoint.com",
   "main": "lib/smartConsoleInteractions.js",
   "types": "lib/smartConsoleInteractions.d.ts",
+  "bin": {
+    "zip-build-balndle": "src/utils/zipBuildProduct.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -28,6 +31,6 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
-    "jszip": "^3.5.0"
+    "zip-a-folder": "0.0.12"
   }
 }

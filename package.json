@@ -1,6 +1,6 @@
 {
   "name": "smart-console-interactions",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "A JavaScript library to interact with SmartConsole Extension Platform",
   "author": "Ron Izraeli (https://github.com/chkp-roniz)",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "name": "smart-console-interactions",
-  "version": "1.0.19",
+  "version": "1.0.29",
   "description": "A JavaScript library to interact with SmartConsole Extension Platform",
   "author": "Ron Izraeli (https://github.com/chkp-roniz)",
   "license": "MIT",
@@ -11,7 +11,7 @@
   "main": "lib/smartConsoleInteractions.js",
   "types": "lib/smartConsoleInteractions.d.ts",
   "bin": {
-    "zip-build-balndle": "src/utils/zipBuildProduct.js"
+    "zip-build-bandle": "src/utils/zipBuildProduct.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

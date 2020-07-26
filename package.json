@@ -11,7 +11,7 @@
   "main": "lib/smartConsoleInteractions.js",
   "types": "lib/smartConsoleInteractions.d.ts",
   "bin": {
-    "zip-build-bandle": "src/utils/zipBuildProduct.js"
+    "zip-build-bandle": "src/zipBuildBandle.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

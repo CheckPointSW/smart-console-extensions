@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const zipFolder = require('zip-a-folder');
 
 class ZipAFolder {

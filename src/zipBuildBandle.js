@@ -1,5 +1,9 @@
 #!/usr/bin/env node
 
+const fs= require('fs');
+var filePath = './build/service-worker.js'; 
+fs.unlinkSync(filePath);
+
 const zipFolder = require('zip-a-folder');
 
 class ZipAFolder {

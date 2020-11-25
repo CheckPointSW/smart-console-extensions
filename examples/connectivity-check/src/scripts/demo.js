@@ -59,7 +59,7 @@ const context = {
     application: "SmartConsole",
     changes: 0,
     "in-work": true,
-    "ip-address": "91.90.128.15",
+    "ip-address": "10.10.10.10",
     locks: 0,
     "connection-mode": "read write",
     "session-timeout": 30

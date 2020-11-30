@@ -9,7 +9,7 @@ import { uuid } from "smart-console-interactions";
 const context = {
   extension: {
     name: "Connectivity Check",
-    vendor: "roniz@checkpoint.com",
+    vendor: "extensions@checkpoint.com",
     version: "1.0"
   },
   "client-extensions-api": { version: "1.3", locale: "en-US" },

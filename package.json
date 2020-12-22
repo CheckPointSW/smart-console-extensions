@@ -1,6 +1,6 @@
 {
   "name": "smart-console-interactions",
-  "version": "1.0.43",
+  "version": "1.0.44",
   "description": "A JavaScript library to interact with SmartConsole Extension Platform",
   "author": "Ron Izraeli (https://github.com/chkp-roniz)",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "typescript"
   ],
   "devDependencies": {
-    "@types/node": "^10.17.44",
+    "@types/node": "^10.17.49",
     "prettier": "^1.17.1",
     "tslint": "^5.17.0",
     "tslint-config-prettier": "^1.18.0",

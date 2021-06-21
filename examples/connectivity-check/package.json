@@ -14,7 +14,7 @@
     "react-dom": "^16.14.0",
     "react-scripts": "^4.0.3",
     "react-svg": "^7.2.2",
-    "smart-console-interactions": "^1.0.50"
+    "smart-console-interactions": "^1.0.52"
   },
   "scripts": {
     "start": "react-scripts start",

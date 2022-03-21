@@ -12,9 +12,9 @@
   "dependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.0",
     "react-svg": "^7.2.2",
-    "smart-console-interactions": "^1.0.53"
+    "smart-console-interactions": "^1.0.55"
   },
   "scripts": {
     "start": "react-scripts start",

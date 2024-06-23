@@ -8,13 +8,36 @@
   <body onload="showContext()">
     <script src="colors.js"></script>
     <script src="showSimpleGatewayInterfaces.js"></script>
-    <div id="scrollTable">
-      <table readonly="readonly" id="interfacesTable">
-        <th>Name</th>
-        <th>Topology</th>
-        <th>IP</th>
-        <th>Comments</th>
-      </table>
+<!--    <div id="scrollTable">-->
+<!--      <table readonly="readonly" id="interfacesTable">-->
+<!--        <th>Name</th>-->
+<!--        <th>Topology</th>-->
+<!--        <th>IP</th>-->
+<!--        <th>Comments</th>-->
+<!--      </table>-->
+<!--    </div>-->
+
+    <!-- Enable/Disable Toggle -->
+    <div>
+      <label for="toggleEnableDisable">Enable/Disable:</label>
+      <div class="toggle-switch">
+        <input type="checkbox" id="toggleEnableDisable">
+        <span class="toggle-slider"></span>
+      </div>
     </div>
+
+
+    <!-- Action/Monitor Toggle -->
+    <div>
+      <label>Action/Monitor:</label>
+      <button id="toggleAction">Prevent</button>
+    </div>
+
+    <!-- Configure Threshold -->
+    <div>
+      <label for="threshold">Threshold (%):</label>
+      <input type="number" id="threshold" min="0" max="100" step="1" value="50">
+    </div>
+
   </body>
 </html>

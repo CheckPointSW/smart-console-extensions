@@ -229,6 +229,20 @@ function removeLoader() {
   document.body.removeChild(text);
 }
 
+function UserInformation() {
+  const toggleEnableDisable = document.getElementById('toggleEnableDisable');
+  const toggleAction = document.getElementById('toggleAction');
+  const thresholdInput = document.getElementById('threshold');
+  let isPreventMode = true; // Default mode is "Prevent"
+
+  // Toggle between Prevent and Detect modes
+  toggleAction.addEventListener('click', function() {
+    isPreventMode = !isPreventMode;
+    toggleAction.textContent = isPreventMode ? 'Prevent' : 'Detect';
+  });
+
+
+}
 /*
  * Send API request 'get-context' (get-context return JSON object of extension location context).
  */
@@ -236,4 +250,5 @@ function showContext() {
   addLoader();
   // send API request
   smxProxy.sendRequest("get-context", null, "onContext");
+
 }

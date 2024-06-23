@@ -230,10 +230,11 @@ function removeLoader() {
 }
 
 function UserInformation() {
+  removeLoader();
   const toggleEnableDisable = document.getElementById('toggleEnableDisable');
   const toggleAction = document.getElementById('toggleAction');
   const thresholdInput = document.getElementById('threshold');
-  let isPreventMode = true; // Default mode is "Prevent"
+  let isPreventMode = true; // Default mode is "Prevent";
 
   // Toggle between Prevent and Detect modes
   toggleAction.addEventListener('click', function() {
@@ -249,6 +250,6 @@ function UserInformation() {
 function showContext() {
   addLoader();
   // send API request
-  smxProxy.sendRequest("get-context", null, "onContext");
-
+  // smxProxy.sendRequest("get-context", null, "onContext");
+  UserInformation();
 }
